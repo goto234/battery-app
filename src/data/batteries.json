@@ -1,0 +1,10 @@
+[
+  { "name": "Lead-Acid", "energyDensity_Whkg": 40, "cycleLife_cycles": 400, "chargeTime_hours": 12, "selfDischarge_pctPerMonth": 11.5, "safety_rating10": 6, "cost_USDperkWh": 125, "tempRange_spanC": 50, "color": "#8B4513" },
+  { "name": "NiCd", "energyDensity_Whkg": 62.5, "cycleLife_cycles": 1500, "chargeTime_hours": 1.5, "selfDischarge_pctPerMonth": 15, "safety_rating10": 6, "cost_USDperkWh": 200, "tempRange_spanC": 80, "color": "#CD853F" },
+  { "name": "NiMH", "energyDensity_Whkg": 90, "cycleLife_cycles": 750, "chargeTime_hours": 3, "selfDischarge_pctPerMonth": 25, "safety_rating10": 7, "cost_USDperkWh": 275, "tempRange_spanC": 55, "color": "#32CD32" },
+  { "name": "Li-ion", "energyDensity_Whkg": 200, "cycleLife_cycles": 2000, "chargeTime_hours": 2, "selfDischarge_pctPerMonth": 3, "safety_rating10": 7.5, "cost_USDperkWh": 160, "tempRange_spanC": 60, "color": "#4169E1" },
+  { "name": "LFP", "energyDensity_Whkg": 125, "cycleLife_cycles": 3500, "chargeTime_hours": 1.5, "selfDischarge_pctPerMonth": 3, "safety_rating10": 9, "cost_USDperkWh": 200, "tempRange_spanC": 80, "color": "#FF6347" },
+  { "name": "Solid-State", "energyDensity_Whkg": 300, "cycleLife_cycles": 6500, "chargeTime_hours": 1.25, "selfDischarge_pctPerMonth": 0.5, "safety_rating10": 9.5, "cost_USDperkWh": 350, "tempRange_spanC": 80, "color": "#9400D3" },
+  { "name": "Zinc-Air", "energyDensity_Whkg": 150, "cycleLife_cycles": 400, "chargeTime_hours": 5, "selfDischarge_pctPerMonth": 0.5, "safety_rating10": 8.5, "cost_USDperkWh": 125, "tempRange_spanC": 55, "color": "#FFD700" },
+  { "name": "Flow Battery", "energyDensity_Whkg": 35, "cycleLife_cycles": 12500, "chargeTime_hours": 6, "selfDischarge_pctPerMonth": 0.1, "safety_rating10": 9.5, "cost_USDperkWh": 450, "tempRange_spanC": 60, "color": "#00CED1" }
+]
